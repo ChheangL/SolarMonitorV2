@@ -25,7 +25,7 @@ struct_message Data;
 /*
  * ESP_NOW protocol functions
  */
-extern uint8_t broadcastAddress[] = { 0x24,0xA1,0x60,0xC5,0x6A,0x68 };
+extern uint8_t broadcastAddress[] = { 0x30,0xC6,0xF7,0x25,0xB2,0x08 };
 
 esp_now_peer_info_t peerInfo;
 
